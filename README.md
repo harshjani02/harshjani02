@@ -118,7 +118,7 @@
 ## 📄 Resume
 
 <p align="center">
-  <a href="YOUR_RESUME_LINK">
+  <a href="https://docs.google.com/document/d/10JhUB1uoZ2qIjzrQqfbmJwks7lN4C6HT/edit?usp=drive_link&ouid=112085606117226369640&rtpof=true&sd=true">
     <img src="https://img.shields.io/badge/📄%20Download%20Resume-000000?style=for-the-badge&logoColor=white" />
   </a>
 </p>
@@ -131,7 +131,7 @@
   <a href="https://github.com/harshjani02">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="linkedin.com/in/harshjani02">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
