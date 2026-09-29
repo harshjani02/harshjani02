@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Harsh Jani
 
-### 🚀 DevOps & Cloud Engineer | 🤖 AI & GenAI Enthusiast
+### 🚀 DevOps & Cloud Engineer 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=900&color=00F7FF&center=true&vCenter=true&width=850&lines=DevOps+%7C+Cloud+%7C+GenAI;AWS+%7C+Docker+%7C+Kubernetes;Jenkins+%7C+GitHub+Actions+%7C+Terraform;RAG+%7C+LLMs+%7C+LangChain+%7C+ChromaDB;Automate+%7C+Deploy+%7C+Scale+%7C+Build+with+AI" alt="Typing Animation" />
